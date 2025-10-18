@@ -1,0 +1,8 @@
+C:\Users\hande\OneDrive\Desktop\C#eğitim\01_\03_MakingDecision\bin\Debug\03_MakingDecision.exe.config
+C:\Users\hande\OneDrive\Desktop\C#eğitim\01_\03_MakingDecision\bin\Debug\03_MakingDecision.exe
+C:\Users\hande\OneDrive\Desktop\C#eğitim\01_\03_MakingDecision\bin\Debug\03_MakingDecision.pdb
+C:\Users\hande\OneDrive\Desktop\C#eğitim\01_\03_MakingDecision\obj\Debug\03_MakingDecision.csproj.AssemblyReference.cache
+C:\Users\hande\OneDrive\Desktop\C#eğitim\01_\03_MakingDecision\obj\Debug\03_MakingDecision.csproj.CoreCompileInputs.cache
+C:\Users\hande\OneDrive\Desktop\C#eğitim\01_\03_MakingDecision\obj\Debug\03_MakingDecision.exe
+C:\Users\hande\OneDrive\Desktop\C#eğitim\01_\03_MakingDecision\obj\Debug\03_MakingDecision.pdb
+C:\Users\hande\OneDrive\Desktop\C#eğitim\01_\03_MakingDecision\obj\Debug\03_MakingDecision.exe.config
