@@ -1,0 +1,8 @@
+C:\Users\hande\OneDrive\Desktop\C#eğitim\01_\002_Variables\bin\Debug\002_Variables.exe.config
+C:\Users\hande\OneDrive\Desktop\C#eğitim\01_\002_Variables\bin\Debug\002_Variables.exe
+C:\Users\hande\OneDrive\Desktop\C#eğitim\01_\002_Variables\bin\Debug\002_Variables.pdb
+C:\Users\hande\OneDrive\Desktop\C#eğitim\01_\002_Variables\obj\Debug\002_Variables.csproj.AssemblyReference.cache
+C:\Users\hande\OneDrive\Desktop\C#eğitim\01_\002_Variables\obj\Debug\002_Variables.csproj.CoreCompileInputs.cache
+C:\Users\hande\OneDrive\Desktop\C#eğitim\01_\002_Variables\obj\Debug\002_Variables.exe
+C:\Users\hande\OneDrive\Desktop\C#eğitim\01_\002_Variables\obj\Debug\002_Variables.pdb
+C:\Users\hande\OneDrive\Desktop\C#eğitim\01_\002_Variables\obj\Debug\002_Variables.exe.config
