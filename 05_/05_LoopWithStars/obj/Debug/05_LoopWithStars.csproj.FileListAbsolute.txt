@@ -1,0 +1,8 @@
+C:\Users\hande\OneDrive\Desktop\C#eğitim\01_\05_LoopWithStars\bin\Debug\05_LoopWithStars.exe.config
+C:\Users\hande\OneDrive\Desktop\C#eğitim\01_\05_LoopWithStars\bin\Debug\05_LoopWithStars.exe
+C:\Users\hande\OneDrive\Desktop\C#eğitim\01_\05_LoopWithStars\bin\Debug\05_LoopWithStars.pdb
+C:\Users\hande\OneDrive\Desktop\C#eğitim\01_\05_LoopWithStars\obj\Debug\05_LoopWithStars.csproj.AssemblyReference.cache
+C:\Users\hande\OneDrive\Desktop\C#eğitim\01_\05_LoopWithStars\obj\Debug\05_LoopWithStars.csproj.CoreCompileInputs.cache
+C:\Users\hande\OneDrive\Desktop\C#eğitim\01_\05_LoopWithStars\obj\Debug\05_LoopWithStars.exe
+C:\Users\hande\OneDrive\Desktop\C#eğitim\01_\05_LoopWithStars\obj\Debug\05_LoopWithStars.pdb
+C:\Users\hande\OneDrive\Desktop\C#eğitim\01_\05_LoopWithStars\obj\Debug\05_LoopWithStars.exe.config
