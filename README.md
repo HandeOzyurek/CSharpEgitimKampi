@@ -1,4 +1,5 @@
 Bu repositories Murat Yücedağ tarafından, youtube üzerinden C# Eğitim Kampı'nın içerikleri ve projelerini içerir. Bu değerli eğitim için Murat Yücedağ'a teşekkürlerimi sunuyorum.
+
 💡 CSharpEgitimKampi.Ders1
 Bu bölümde temel yazılım komutlarını öğrendim.
 
