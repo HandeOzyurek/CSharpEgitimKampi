@@ -26,3 +26,11 @@ Bu bölümde "void" kavramını öğrendik. Geriye döndürülen ve döndürüle
 
 💡 CSharpEgitimKampi.Ders9
 Bu bölümde ise SQL ile bağlamayı öğrendik.
+
+💡 CSharpEgitimKampi.Ders10
+Bu bölümde C# üzerinden Sql tablosunu güncelleme, okuma, listeleme ve silme işlemlerini öğrendik. 
+
+
+
+
+
